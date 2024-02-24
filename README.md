@@ -1,10 +1,10 @@
 
 # Project Title
 
-Essential Package installer Script for linux-mint 
+## Essential Package installer Script for linux-mint 
 
 
-## Authors
+### Authors
 
 - [KnT-SeaWolf](https://github.com/KnT-SeaWolf/Exssential-installer.git)
 
@@ -44,7 +44,12 @@ git clone https://github.com/KnT-SeaWolf/Exssential-installer.git
     
 ## Screenshots
 
-![App Screenshot]
+![Screenshot_2024-02-23_20_37_13](https://github.com/KnT-SeaWolf/Exssential-installer/assets/148425020/e3be37b7-9e51-4e6d-9f83-eb633873f29a)
+
+----
+
+
+
 
 
 ## Usage Menu option 
@@ -56,12 +61,12 @@ Usage:    poem.sh - [options]
  
 ---------------------Options:----------------------
   
-- = poem.sh  -h,   --Help            ==Display this help message
+- = poem.sh  -h,     |  --Help            |  ==Display this help message
 
 
-- = poem.sh  -up,  --Update          ==Update for Your system-repo
+- = poem.sh  -up,    | --Update           | ==Update for Your system-repo
 
--  poem.sh  -ic,  --Install         ==Any Check && Install packages
+-  poem.sh  -ic,  --Install               | ==Any Check && Install packages
 
 - = poem.sh  -zs,  --Oh-my-zsh       ==The Emperor of Counsellor Ohmyzsh
 
