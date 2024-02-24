@@ -35,11 +35,9 @@ Essential Package installer Script for linux-mint
 
 ## Installation
 
-Install my-project with npm
+Install Script-cut 
 
-```bash
-  npm install my-project
-  cd my-project
+```git clone https://github.com/KnT-SeaWolf/Exssential-installer.git
 ```
     
 ## Screenshots
