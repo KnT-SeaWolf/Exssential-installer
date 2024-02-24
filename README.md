@@ -37,7 +37,9 @@ Essential Package installer Script for linux-mint
 
 Install Script-cut 
 
-```git clone https://github.com/KnT-SeaWolf/Exssential-installer.git
+```
+git clone https://github.com/KnT-SeaWolf/Exssential-installer.git
+
 ```
     
 ## Screenshots
